@@ -1,5 +1,5 @@
 # Prueba para square1
-<hr>
+
 Contacto:
 
   -Telefono: 664584964<br>
@@ -7,7 +7,7 @@ Contacto:
   -Linkedin: https://www.linkedin.com/in/josé-roda-lorenzo-713939173<br>
 
 
-
+<hr>
 
 -Añadir la base de datos square.sql.<br>
 -Registrate con tu correo y contraseña.<br>
