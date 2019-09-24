@@ -2,7 +2,7 @@
 
 Contacto:
 
-  -Telefono: 664584964
+  -Telefono: 664584964<br>
   -Gmail: joserodalorenzo@gmail.com
   -Linkedin: https://www.linkedin.com/in/josé-roda-lorenzo-713939173
 
